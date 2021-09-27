@@ -3,9 +3,8 @@
 
 
 > For Datacamp courses we have access to it, if you don’t:<br>
-     <li> Microsoft Azure tools gives you 2 free months.<br>
-     <li> github student pack gives you 3 months.<br>
-   `if you don't know how, google it :)`
+     <li> Github student pack gives you 3 months.<br>
+   `You can google it if you want more details`
 
 ### This track is divided into 3 phases..
 ```
