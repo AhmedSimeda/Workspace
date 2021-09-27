@@ -4,7 +4,7 @@
 
 > For Datacamp courses we have access to it, if you don’t:<br>
      <li> Github student pack gives you 3 months.<br>
-   `You can google it if you want more details`
+   `You can google it, if you want more details`
 
 ### This track is divided into 3 phases..
 ```
