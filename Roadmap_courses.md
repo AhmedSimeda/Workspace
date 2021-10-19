@@ -117,10 +117,11 @@ At The end of Beginner phase apply all what you've learned on a project.
 
 
 3. **ML**<br>
-[Course1](https://www.udacity.com/course/intro-to-machine-learning--ud120)-Udacity<br>
-[Course2](https://www.coursera.org/learn/machine-learning-with-python)-Coursera<br>
-[Course3](https://www.coursera.org/specializations/machine-learning-algorithms-real-world?utm_medium=email&utm_source=marketing&utm_campaign=A39CcMUuEempyReieZALEQ)-Coursera<br>
-[Course4](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)-Datacamp<br>
+[Course1](https://www.coursera.org/learn/machine-learning)-Coursera<br>
+[Course2](https://www.udacity.com/course/intro-to-machine-learning--ud120)-Udacity<br>
+[Course3](https://www.coursera.org/learn/machine-learning-with-python)-Coursera<br>
+[Course4](https://www.coursera.org/specializations/machine-learning-algorithms-real-world?utm_medium=email&utm_source=marketing&utm_campaign=A39CcMUuEempyReieZALEQ)-Coursera<br>
+[Course5](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1)-Datacamp<br>
 [Book](https://drive.google.com/file/d/15J7YoyRcmwQE2mgW5yVs-MrPL3YtmuSz/view?usp=sharing&fbclid=IwAR1RVi90sfrggEaZnc1roXW9H8AGECyHcsQnZw22FORq-HSaP0VlBU5CAiM)<br>
 [Project](https://www.coursera.org/learn/applied-data-science-capstone)<br>
 
