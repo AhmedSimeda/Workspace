@@ -99,6 +99,7 @@ At The end of Beginner phase apply all what you've learned on a project.
 4. **Web Scraping & APIs**<br>
 [Course1](https://learn.datacamp.com/courses/web-scraping-with-python)-Datacamp<br>
 [Course2](https://www.dataquest.io/blog/web-scraping-tutorial-python/)-Dataquest<br>
+[Course3](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS?fbclid=IwAR1EyxPR3pLXABIcK2bkgh4_HYNSowb01Kij8OiHFh_x5maiqsiwvJNHvXg)-ITI<br>
 [Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)-Realpython<br>
 [Book](https://b-ok.africa/book/3515980/5d50aa)<br>
 
@@ -153,10 +154,11 @@ After finishing this level apply to 2 or 3 good sized projects.
 [Course](https://www.coursera.org/specializations/advanced-data-science-ibm)-Coursera<br>
       
       
-2. **Tableau**<br>
+2. **Tableau & Power BI**<br>
 [Tutorial](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)-Datacamp<br>
-[Course](https://www.tableau.com/learn/training/20201)-Tableau<br>
-[course](https://learn.datacamp.com/courses/introduction-to-tableau)-Datacamp<br>
+[Course1](https://www.tableau.com/learn/training/20201)-Tableau<br>
+[course2](https://learn.datacamp.com/courses/introduction-to-tableau)-Datacamp<br>
+[Course3](https://drive.google.com/drive/folders/1gwxJtxsshN0pQHXzLhkl4Syw42Go11-n?fbclid=IwAR1iYrJ9MJb_d9Kz5_7XfA8IS-wdimHXn84i5RahyBzMOW9QfJa2Q-1UqiM)-ITI<br>
       
 <hr>
       
