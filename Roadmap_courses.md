@@ -99,14 +99,14 @@ At The end of Beginner phase apply all what you've learned on a project.
 4. **Web Scraping & APIs**<br>
 [Course1](https://learn.datacamp.com/courses/web-scraping-with-python)-Datacamp<br>
 [Course2](https://www.dataquest.io/blog/web-scraping-tutorial-python/)-Dataquest<br>
-[Course3](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS?fbclid=IwAR1EyxPR3pLXABIcK2bkgh4_HYNSowb01Kij8OiHFh_x5maiqsiwvJNHvXg)-ITI<br>
 [Tutorial](https://realpython.com/beautiful-soup-web-scraper-python/)-Realpython<br>
 [Book](https://b-ok.africa/book/3515980/5d50aa)<br>
 
   
 7. **Advanced SQL**<br>
-[Course](https://learn.datacamp.com/courses/joining-data-in-postgresql)-Datacamp<br>
-[Course](https://learn.datacamp.com/courses/intermediate-sql)-Datacamp<br>
+[Course1](https://learn.datacamp.com/courses/joining-data-in-postgresql)-Datacamp<br>
+[Course2](https://learn.datacamp.com/courses/intermediate-sql)-Datacamp<br>
+[Course3](https://drive.google.com/drive/folders/1P_uUWl6pBPC3MFrqR_ovoJQNCZhi9rAS?fbclid=IwAR1EyxPR3pLXABIcK2bkgh4_HYNSowb01Kij8OiHFh_x5maiqsiwvJNHvXg)-ITI<br>
       
 <hr>
 
